@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.log
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+*.h5
+*.zip
+*.tar
+*.parquet
+dataset/
+data/
